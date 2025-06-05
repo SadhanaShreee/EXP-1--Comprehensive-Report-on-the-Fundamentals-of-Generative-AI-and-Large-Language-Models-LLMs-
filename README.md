@@ -7,8 +7,8 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 ```   
-Name: JWALAMUKHI S
-Reg.No: 212223040079
+Name: SADHANA SHREE B
+Reg.No: 212223230177
 ```
 
 # Output:
